@@ -1,6 +1,6 @@
 {
-  "name": "jekyll-theme-chirpy",
-  "version": "7.1.1",
+  "name": "my-github-blog",
+  "version": "1.0.0",
   "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy/",
   "scripts": {
-    "build": "concurrently npm:build:*",
+    "build": "jekyll build",
     "build:css": "purgecss -c purgecss.config.js",
     "build:js": "rollup -c --bundleConfigAsCjs --environment BUILD:production",
     "watch:js": "rollup -c --bundleConfigAsCjs -w",
