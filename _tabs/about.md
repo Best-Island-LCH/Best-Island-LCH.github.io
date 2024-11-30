@@ -4,5 +4,23 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 정보-이창현
+## 출신
+2001년 11월 14일 출생  
+## 학력
+희성초등학교 졸업  
+안양부흥중학교 졸업  
+풍무고등학교 졸업  
+성공회대학교 재학  
+## 전공
+소프트웨어공학  
+인공지능공학  
+### 취미  
+농구, 헬스, 게임  
+### 좋아하는 것  
+여행, 공연관람(클래식), 영화감상, 동물  
+### 싫어하는 것  
+느끼한 음식(금방 물리는 음식)  
+일본 애니  
+한국을 제외한 동아시아 영화  
+
