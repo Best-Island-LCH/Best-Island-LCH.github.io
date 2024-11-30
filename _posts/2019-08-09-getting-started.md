@@ -1,8 +1,10 @@
 ---
 title: 블로그 제작기
 description: >-
-대학 강의에서 '오픈소스SW' 라는 강의를 수강하여
-git,github를 알게 되었고 git blog까지 만들어 보게 되었습니다.
+
+  대학 강의에서 '오픈소스SW'라는 강의를 수강하여
+  git, github를 알게 되었고 git blog까지 만들어 보게 되었습니다.
+
 author: cotes
 date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
