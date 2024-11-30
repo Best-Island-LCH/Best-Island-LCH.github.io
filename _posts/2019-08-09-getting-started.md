@@ -6,9 +6,9 @@ description: >-
   git, github를 알게 되었고 git blog까지 만들어 보게 되었습니다.
 
 author: cotes
-date: 2019-08-09 20:55:00 +0800
+date: 2024-11-30 19:03:00 +0800
 categories: [Blogging, Tutorial]
-tags: [getting started]
+tags: [History]
 pin: true
 media_subpath: '/posts/20180809'
 ---
