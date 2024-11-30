@@ -8,7 +8,7 @@ description: >-
 author: cotes
 date: 2024-11-30 19:03:00 +0800
 categories: [Blogging, Tutorial]
-tags: [History]
+tags: [getting started]
 pin: true
 media_subpath: '/posts/20180809'
 ---
