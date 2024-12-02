@@ -22,10 +22,12 @@ comments: true
 - 전) 고등학교 학교 대표  
 - 현) FLOW(교내 농구 동아리) 회장  
 - 현) 동호회(SWISH) 멤버  
+
 #### <헬스>  
 - Squat : 110kg  
 - Deadlift : 145kg  
 - Benchpress : 85kg  
+
 #### <게임>  
 - Lol  
 - Battle ground
