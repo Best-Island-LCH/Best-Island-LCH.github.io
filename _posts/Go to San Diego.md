@@ -10,4 +10,5 @@ mermaid: true
 comments: true
 ---
 # My first English Life
-Actually 
+Today is 29-12-2024. I'm in LA international airport. wating airplane go to San Diego.  
+
